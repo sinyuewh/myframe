@@ -12,10 +12,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="common" target="1.8" />
+      <module name="common" target="1.7" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
-      <module name="myframe" target="1.8" />
+      <module name="myframe" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
